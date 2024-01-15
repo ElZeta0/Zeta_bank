@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+        <script src="js/index.js" type="text/javascript"></script>
+        <script src="jquery.min.js"></script>
+        <link href="css/index.css" rel="stylesheet">
+    </head>
+    <body id="body">
+        <div class="cont-banca">
+            <nav>
+                <ul>
+                    <li id="contos"><button onclick="conto()" id="backcont"><i class="fa fa-id-card-o"></i> Account</button></li>
+                    <li id="servizis"><button onclick="servizi()" id="backserv"><i class="fa fa-university"></i> Services</button></li>
+                    <li><button onclick="esci()"><i class="fa fa-sign-out"></i> Exit</button></li>
+                    <img class="logo" src="css/img/logo_senza_background.png" alt="">
+                </ul>
+            </nav>
+            <section>
+            <div class="fleeca-banca"><h1>Welcome how can we help you?</h1></div>
+            <div class="carta"><img width="350" src="css/img/carta_fleeca.png" alt=""></div>
+            <div class="conto" id="carta">
+                <h1>Credit Card</h1>
+                <!-- <input type="text" name="codicepin" id="codicepin" maxlength="4" placeholder="Registra un codice pin"> -->
+                <button onclick="Richiedi_cartadicredito()">Request Credit Card</button>
+            </div>
+            <div class="saldo">
+                <p>Bank Balance</p> <br><span>$ </span><span id="saldo-banca">0</span>
+            </div>
+            <div class="movimenti" id="movimenti">
+                <h1>Banking transactions</h1>
+                <div class="mov" id="mov">
+                    No bank movements
+                </div>
+            </div>
+            <div class="servizi">
+            <div class="deposita" id="deposita">
+                <h1>Deposit Money</h1>
+                <input type="number" name="depositai" id="depositai" placeholder="Enter amount">
+                <button onclick="deposita()">Approve</button>
+            </div>
+            <div class="preleva" id="preleva">
+                <h1>Withdraw Money</h1>
+                <input type="number" name="prelevai" id="prelevai" placeholder="Enter amount">
+                <button onclick="preleva()">Approve</button>
+            </div>
+            <div class="bonifco" id="bonifico">
+                <h1>Bank transfer</h1>
+                <input type="number" name="bonificoi" id="bonificoi" placeholder="Enter amount">
+                <input type="number" name="bonificoid" id="bonificoid" placeholder="Enter player id">
+                <button onclick="invia_bonifico()">Approve</button>
+            </div>
+            </section>
+            </div>
+        </div>
+    </body>
+</html>
