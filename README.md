@@ -9,7 +9,7 @@
 ###
 
 <p>
-        Experience seamless financial management in the world of with our advanced banking system's intuitive and interactive user interface. Our modern bank menu provides access to a range of features designed to streamline your fund management quickly and conveniently.
+        Experience seamless financial management in the world of fivem with our advanced banking system's intuitive and interactive user interface. Our modern bank menu provides access to a range of features designed to streamline your fund management quickly and conveniently.
 </p>
 
 <h2>Key Features:</h2>
