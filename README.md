@@ -23,7 +23,7 @@
 </ol>
 
 <p>
-Our bank menu is designed to provide you with an unparalleled user experience. Whether you're managing your finances or conducting transactions, our system makes the process intuitive and efficient. Experience the future of financial operations in [Insert the name of the game or application].
+Our bank menu is designed to provide you with an unparalleled user experience. Whether you're managing your finances or conducting transactions, our system makes the process intuitive and efficient. Experience the future of financial operations in Fivem
 </p>
   
 <br>📚 [Preview](https://streamable.com/kmfxvy)
