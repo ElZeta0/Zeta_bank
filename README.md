@@ -21,10 +21,6 @@
     <li><strong>Quick Banking Operations:</strong> Make deposits, withdrawals, transfers, and more with a single click. Our system simplifies banking procedures to save you time.</li>
     <li><strong>Automatic Teller Machines (ATM):</strong> Easily access ATMs for quick and secure transactions. The menu adapts automatically to your needs, providing a variety of options for your transactions.</li>
 </ol>
-
-<p>
-Our bank menu is designed to provide you with an unparalleled user experience. Whether you're managing your finances or conducting transactions, our system makes the process intuitive and efficient. Experience the future of financial operations in Fivem
-</p>
   
 <br>📚 [Preview](https://streamable.com/kmfxvy)
 
